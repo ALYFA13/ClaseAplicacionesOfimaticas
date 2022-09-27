@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\GitHub\ClaseAplicacionesOfimaticas\27_09_22_APP1\27_09_22_APP1\bin\Debug\27_09_22_APP1.exe.config
+C:\Users\Usuario\Documents\GitHub\ClaseAplicacionesOfimaticas\27_09_22_APP1\27_09_22_APP1\bin\Debug\27_09_22_APP1.exe
+C:\Users\Usuario\Documents\GitHub\ClaseAplicacionesOfimaticas\27_09_22_APP1\27_09_22_APP1\bin\Debug\27_09_22_APP1.pdb
+C:\Users\Usuario\Documents\GitHub\ClaseAplicacionesOfimaticas\27_09_22_APP1\27_09_22_APP1\bin\Debug\27_09_22_APP1.xml
+C:\Users\Usuario\Documents\GitHub\ClaseAplicacionesOfimaticas\27_09_22_APP1\27_09_22_APP1\obj\Debug\27_09_22_APP1.vbproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\ClaseAplicacionesOfimaticas\27_09_22_APP1\27_09_22_APP1\obj\Debug\27_09_22_APP1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\GitHub\ClaseAplicacionesOfimaticas\27_09_22_APP1\27_09_22_APP1\obj\Debug\_27_09_22_APP1.Resources.resources
+C:\Users\Usuario\Documents\GitHub\ClaseAplicacionesOfimaticas\27_09_22_APP1\27_09_22_APP1\obj\Debug\27_09_22_APP1.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\GitHub\ClaseAplicacionesOfimaticas\27_09_22_APP1\27_09_22_APP1\obj\Debug\27_09_22_APP1.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\ClaseAplicacionesOfimaticas\27_09_22_APP1\27_09_22_APP1\obj\Debug\27_09_22_APP1.exe
+C:\Users\Usuario\Documents\GitHub\ClaseAplicacionesOfimaticas\27_09_22_APP1\27_09_22_APP1\obj\Debug\27_09_22_APP1.xml
+C:\Users\Usuario\Documents\GitHub\ClaseAplicacionesOfimaticas\27_09_22_APP1\27_09_22_APP1\obj\Debug\27_09_22_APP1.pdb

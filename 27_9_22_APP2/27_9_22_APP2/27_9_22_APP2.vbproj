@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{972F78FC-1FBA-4C74-ACBF-F64A95389D3B}</ProjectGuid>
+    <ProjectGuid>{1C3A9786-2CA8-4E1F-B113-81F16658E0BB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>_27_09_22_APP1.Module1</StartupObject>
-    <RootNamespace>_27_09_22_APP1</RootNamespace>
-    <AssemblyName>27_09_22_APP1</AssemblyName>
+    <StartupObject>_27_9_22_APP2.Module1</StartupObject>
+    <RootNamespace>_27_9_22_APP2</RootNamespace>
+    <AssemblyName>27_9_22_APP2</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>Console</MyType>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -22,7 +22,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>27_09_22_APP1.xml</DocumentationFile>
+    <DocumentationFile>27_9_22_APP2.xml</DocumentationFile>
     <NoWarn>
     </NoWarn>
     <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
@@ -34,7 +34,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>27_09_22_APP1.xml</DocumentationFile>
+    <DocumentationFile>27_9_22_APP2.xml</DocumentationFile>
     <NoWarn>
     </NoWarn>
     <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
